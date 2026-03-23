@@ -43,7 +43,7 @@ Data:
 - https://www.drivendata.org/competitions/66/flu-shot-learning/data/
 
 Notebook:
-- 
+- https://github.com/ronohcollins/Phase_3_project/blob/main/P3_Project.ipynb
 
 Presentation:
 - 
