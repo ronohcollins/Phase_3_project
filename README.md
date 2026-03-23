@@ -39,4 +39,13 @@ The public health stakeholders should encourage medical professionals to recomme
 ---
 ## Repository
 
+Data:
+- https://www.drivendata.org/competitions/66/flu-shot-learning/data/
+
+Notebook:
+- 
+
+Presentation:
+- 
+
 
