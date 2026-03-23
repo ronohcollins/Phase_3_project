@@ -19,7 +19,7 @@ To determine and evaluate logistic regression model, I model two logistic regres
 
 ## Evaluation
 I evaluated my model using:-
-- 1. Accuracy score
+  1. Accuracy score
   2. Recall
   3. Precision
   4. F1 score
